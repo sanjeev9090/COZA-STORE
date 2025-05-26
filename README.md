@@ -1,0 +1,2 @@
+# COZA-STORE
+An eCommerce clothing and accessories website is an online platform where customers can browse, purchase, and have fashion items delivered to their doorstep. It typically features a wide range of products, including apparel for men, women, and children, as well as accessories like bags, shoes, jewelry, and sunglasses. These websites often offer search filters, size guides, customer reviews, and secure payment options to enhance the shopping experience.
